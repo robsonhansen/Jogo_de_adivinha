@@ -1,6 +1,6 @@
 import os 
 
-palavra_secreta = input(f'Digite a palavra secreta{' -'+'-'*5 +'>'} ').lower() #INPUT PARA RECEBER A PALAVRA SECRETA 
+palavra_secreta = input(f'Digite a palavra secreta{' -'+'-'*5 +'>'}\n ').lower() #INPUT PARA RECEBER A PALAVRA SECRETA 
 
 letras_acertadas = '' # VARIALVEL QUE RECEBE AS LETRAS ACERTADAS
 tentativas = 0 #VARIALVEL QUE RECEBE AS TENTATIVAS
